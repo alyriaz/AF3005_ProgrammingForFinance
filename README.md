@@ -21,7 +21,7 @@ In this project, you’ll find step-by-step implementations of essential financi
 - Salary as a Slider
 - Employment status as a Dropdown menu 
 - Credit score as a Slider
- **Criteria:**
+- **Criteria:**
 - Unemployed or earning < PKR 50,000 → ❌ Loan rejected.
 - Credit Score ≥ 750 → ✅ Approved at 5% interest.
 - Credit Score 650 - 749 → ✅ Approved at 8% interest.
@@ -29,7 +29,7 @@ In this project, you’ll find step-by-step implementations of essential financi
 ## 2️⃣ Investment Portfolio Risk Classification
 **User Inputs:** 
 - A list of stock returns (e.g., [7, -3, 10, 5]).
- **Risk Labels:**
+- **Risk Labels:**
 - 🔴 High Risk → If any stock return is negative.
 - 🟠 Medium Risk → All returns positive, but at least one is below 5%.
 - 🟢 Low Risk → All returns are 5% or above.
@@ -38,7 +38,7 @@ In this project, you’ll find step-by-step implementations of essential financi
 **User Inputs:**
 - Loan amount as a Slider 
 - Monthly Payment as a Slider 
- **Outputs:**
+- **Outputs:**
 - 📅 Repayment Schedule to track monthly installments.
 - 📉 Remaining Balance updates after each installment.
 
@@ -50,8 +50,8 @@ In this project, you’ll find step-by-step implementations of essential financi
 
 ## 5️⃣ Currency Exchange Rate Tracking & Conversion Suggestions
 **User Inputs:**
-- Base/target currencies as a slider 
- **Functionalities:**
+- Base/target currencies as a slider
+- **Functionalities:**
 - 💱 Live Conversion – Calculate how much you get in target currency.
 - ⏰ Best Times to Convert – Based on market trends.
 
