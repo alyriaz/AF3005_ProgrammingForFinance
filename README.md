@@ -14,7 +14,7 @@ In this project, you’ll find step-by-step implementations of essential financi
 - Stock Market Monitoring & Alerts
 - Currency Exchange Rate Tracking & Conversion Suggestions
 
-## 🚀 Key Features & Functionalities
+## 🚀 Key Features
 
 ### 1️⃣ Loan Eligibility Assessment
 **User Inputs:**
@@ -29,10 +29,10 @@ In this project, you’ll find step-by-step implementations of essential financi
 ## 2️⃣ Investment Portfolio Risk Classification
 **User Inputs:** 
 - A list of stock returns (e.g., [7, -3, 10, 5]).
-- **Risk Labels:**
-- 🔴 High Risk → If any stock return is negative.
-- 🟠 Medium Risk → All returns positive, but at least one is below 5%.
-- 🟢 Low Risk → All returns are 5% or above.
+- **Criteria**
+-  High Risk → If any stock return is negative.
+-  Medium Risk → All returns positive, but at least one is below 5%.
+-  Low Risk → All returns are 5% or above.
 
 ## 3️⃣ Automated Loan Repayment Tracker
 **User Inputs:**
