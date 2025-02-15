@@ -17,40 +17,41 @@ In this project, you’ll find step-by-step implementations of essential financi
 ## 🚀 Key Features & Functionalities
 
 ### 1️⃣ Loan Eligibility Assessment
-- User Inputs: 
+**User Inputs:**
 - Salary as a Slider
 - Employment status as a Dropdown menu 
 - Credit score as a Slider
-- Criteria:
+**Criteria:**
 - Unemployed or earning < PKR 50,000 → ❌ Loan rejected.
 - Credit Score ≥ 750 → ✅ Approved at 5% interest.
 - Credit Score 650 - 749 → ✅ Approved at 8% interest.
 
 ## 2️⃣ Investment Portfolio Risk Classification
-User Inputs: A list of stock returns (e.g., [7, -3, 10, 5]).
-Risk Labels:
+**User Inputs:** 
+- A list of stock returns (e.g., [7, -3, 10, 5]).
+**Risk Labels:**
 - 🔴 High Risk → If any stock return is negative.
 - 🟠 Medium Risk → All returns positive, but at least one is below 5%.
 - 🟢 Low Risk → All returns are 5% or above.
 
 ## 3️⃣ Automated Loan Repayment Tracker
-- User Inputs:
+**User Inputs:**
 - Loan amount as a Slider 
 - Monthly Payment as a Slider 
-- Outputs:
+**Outputs:**
 - 📅 Repayment Schedule to track monthly installments.
 - 📉 Remaining Balance updates after each installment.
 
 ## 4️⃣ Stock Market Monitoring & Alerts
-- User Inputs: 
+**User Inputs:** 
 - Historical or real-time stock prices
-- Alerts & Recommendations:
+**Alerts & Recommendations:**
 - 📈 Price Surges → Suggest buy/sell recommendations.
 
 ## 5️⃣ Currency Exchange Rate Tracking & Conversion Suggestions
-- User Inputs: 
+**User Inputs:**
 - Base/target currencies as a slider 
-- Functionalities:
+**Functionalities:**
 - 💱 Live Conversion – Calculate how much you get in target currency.
 - ⏰ Best Times to Convert – Based on market trends.
 
